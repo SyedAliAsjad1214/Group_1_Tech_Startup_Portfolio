@@ -12,14 +12,15 @@ Files will be later on added to this repository and a readme.md file will also b
 It includes the following:
 
 - Complete Code for the Website ✔
-- A *Word* Document ❌
-- An *Excel* SpreadSheet ❌
-- A *PowerPoint* Presentation ❌
-- An Animation made on *Canva* ❌
+- A *Word* Document ✔
+- An *Excel* SpreadSheet ✔
+- A *PowerPoint* Presentation ✔
+- An Animation made on *Canva* ✔
 - A Poster made on *Canva* ✔
 
 ```
 Please keep in mind that this repository
-is to be updated later on.
+is now officially completed, but there always
+a room for improvements.
 ```
 
